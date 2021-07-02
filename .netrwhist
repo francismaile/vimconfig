@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/Users/francismaile/www/portfolio/archive/survey-fcc'
+let g:netrw_dirhist_7='/Users/francismaile/www/portfolio/archive/simon-game'
+let g:netrw_dirhist_6='/Users/francismaile/www/portfolio/archive'
+let g:netrw_dirhist_5='/Users/francismaile/www/portfolio/archive/survey-fcc'
+let g:netrw_dirhist_4='/Users/francismaile/www/portfolio/archive'
+let g:netrw_dirhist_3='/Users/francismaile/www/portfolio/archive/survey-fcc'
+let g:netrw_dirhist_2='/Users/francismaile/www/portfolio/archive'
+let g:netrw_dirhist_1='/Users/francismaile/www/portfolio/formpage'
+let g:netrw_dirhist_0='/Users/francismaile/www/portfolio/tribute'
+let g:netrw_dirhist_9='/Users/francismaile/www/portfolio/tribute/css'
